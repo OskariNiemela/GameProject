@@ -1,0 +1,1 @@
+oBackgroundMusic.State = "MoreGain";

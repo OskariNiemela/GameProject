@@ -1,0 +1,11 @@
+TimerArray[0] = s0;
+TimerArray[1] = s1;
+TimerArray[2] = s2;
+TimerArray[3] = s3;
+TimerArray[4] = s4;
+TimerArray[5] = s5;
+TimerArray[6] = s6;
+TimerArray[7] = s7;
+TimerArray[8] = s8;
+TimerArray[9] = s9;
+TimerArray[10]= s10;

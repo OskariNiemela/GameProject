@@ -1,0 +1,73 @@
+T
+def
+0
+0
+Hold it!
+-
+#
+T
+def
+0
+0
+What do you think your doin?
+Going around my town causin trouble
+-
+#
+T
+def
+0
+0
+Do you have any idea how much trouble you caused me?!
+-
+#
+T
+def
+0
+0
+Seems im gonna have to teach you a lesson
+-
+#
+T
+def
+0
+0
+You.. beat me.
+-
+#
+T
+def
+0
+0
+...
+Take me with you.
+-
+#
+T
+def
+0
+0
+Im coming with you!
+-
+#
+T
+def
+0
+0
+Right. Lets go
+-
+#
+T
+def
+0
+0
+Lets just get this over with
+-
+#
+T
+def
+0
+0
+It was plastic
+-
+#
+%

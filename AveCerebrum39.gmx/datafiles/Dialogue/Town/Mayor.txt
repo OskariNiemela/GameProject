@@ -1,0 +1,59 @@
+T
+def
+0
+0
+Greetings and salutations to you my good friends!
+-
+#
+T
+def
+0
+0
+How're ya liking our quaint little town?
+-
+#
+T
+def
+0
+0
+Oh, that little thing's still there huh?
+I guess no one's had a need to to use that road, no one wants to leave after all!
+-
+#
+T
+def
+0
+0
+Oh yes, well surely you can wait just a tad, enjoy the town meanwhile, we've got a lovely little community here and I'm sure you'll love it!
+-
+#
+T
+def
+0
+0
+Oh don't be such a stranger, all were doing is offering you some relaxation in our little corner of the earth.
+-
+#
+T
+def
+0
+0
+Oh but I insist!
+You must stay a while and see all that we have to offer. Who knows you might like it enough to stay a bit longer than just a while!
+-
+#
+T
+def
+0
+0
+Oh.. So it's like that, huh?
+-
+#
+T
+def
+0
+0
+Y'know you really shouldnt mess with my town
+-
+#
+%

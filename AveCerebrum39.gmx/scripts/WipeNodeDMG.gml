@@ -1,0 +1,3 @@
+with(oNoDeH){
+    HitWithAbility = false;
+}   

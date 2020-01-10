@@ -1,0 +1,32 @@
+T
+def
+0
+0
+Hello!
+-
+#
+D
+def
+0
+0
+Are you here to see the mayor?
+1
+-
+Take a seat while the mayor finishes up business.
+-
+Oh, ok.
+-
+=
+Yes
+1
+No
+2
+#
+T
+def
+0
+0
+The mayor will see you now.
+-
+#
+%

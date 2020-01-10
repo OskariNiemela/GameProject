@@ -1,0 +1,36 @@
+T
+def
+0
+0
+Hey there friend, care to talk?
+-
+#
+T
+def
+0
+0
+I like your robe
+-
+#
+T
+def
+0
+0
+Need some help?
+-
+#
+T
+def
+0
+0
+You seem lost, let me help you find your way back
+-
+#
+T
+def
+0
+0
+You're new in town, let me show you around!
+-
+#
+%

@@ -1,0 +1,48 @@
+T
+def
+0
+0
+Oh? A visitor?
+-
+#
+T
+def
+0
+0
+Dont see much of anyone around here, whats your name?
+...
+Ghrm. Not very talkative I see.
+I should offer you some refreshment, you look like you could need it.
+-
+#
+T
+def
+0
+0
+Ghrm. Not very talkative I see.
+I should offer you some refreshment, you look like you could need it.
+-
+#
+T
+def
+0
+0
+So uh.. What are you doing in these parts?
+Are you perhaps, on an adventure?
+-
+#
+T
+def
+0
+0
+You.. wouldn't mind some company, I hope?
+-
+#
+T
+def
+0
+0
+Great! I suggest we take the southern road out to the town, We're bound to find something exciting.
+-
+#
+%

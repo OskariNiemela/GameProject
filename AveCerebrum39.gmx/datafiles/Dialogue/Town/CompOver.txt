@@ -1,0 +1,152 @@
+T
+def
+0
+0
+Oh.. This road is the only way out of this town, we need to get rid of the blockage in order to continue our journey.
+Maybe we could ask around and see if someone will help us in getting rid of it, or maybe there's someone we can ask to get rid of it for us.
+-
+#
+T
+def
+0
+0
+So. Are you having fun on your adventure?
+We'll talk to the mayor soon enough, and then we'll be on our way.
+-
+#
+T
+def
+0
+0
+Lovely really, but what is that giant boulder blocking the way out of town?
+-
+#
+T
+def
+0
+0
+Right, could I ask you when you could get that cleaned up?
+My Friend here and I are in a little bit of a hurry, you see.
+-
+#
+T
+def
+0
+0
+Could we perhaps borrow some equipment, and get rid of the boulder ourselves?
+-
+#
+T
+def
+0
+0
+We really are in a hurry, and would like to continue on as soon as possible.
+-
+#
+T
+def
+0
+0
+We'd really just like to leave.
+-
+#
+T
+def
+0
+0
+Well.. That was something.
+Oh?
+-
+#
+T
+def
+0
+0
+What's that in his pocket?
+-
+#
+T
+def
+0
+0
+A key, this could help us find something to move that rock with.
+-
+#
+T
+def
+0
+0
+This must be where they keep all the equipment, maybe we'll find a drill or something to break up that rock.
+-
+#
+T
+def
+0
+0
+hmm.. Somethings off about this storage.
+-
+#
+T
+def
+0
+0
+Oh! There it is, just what we need.
+-
+#
+T
+def
+0
+0
+My apologies. We didn't mean to cause any -
+-
+#
+T
+def
+0
+0
+Well now, that takes care of that.
+-
+#
+T
+def
+0
+0
+There, we can get out and be on our way.
+-
+#
+T
+def
+0
+0
+Pardon?
+-
+#
+T
+def
+0
+0
+...
+-
+#
+T
+def
+0
+0
+I'd LOVE to have you but, you see, my friend here is the one who d-
+-
+#
+T
+def
+0
+0
+Welcome aboard, dear friend! I hope we can grow more understanding as our journey progresses.
+-
+#
+T
+def
+0
+0
+Right, lets get to work, we'll need to work in -
+-
+#
+%
